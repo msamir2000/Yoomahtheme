@@ -8,80 +8,6 @@
 
 @import 'certificates';
 
-/////////////////// General
-
-$content_padding_top: 24px;
-$content-padding-bottom: 10px;
-$header-height: 75px;
-$footer-height: 125.5px;
-
-body, body.view-profile {
-    min-height: initial;
-    background-color: #fff;
-}
-
-%btn-pl-default-base {
-    border-radius: 0;
-}
-
-.btn, .global-header .nav-links .secondary .btn {
-    border-radius: 0;
-}
-
-%t-title {
-    font-family: $font-family-title;
-}
-
-h1, h2, h3, h1 span, h2 span, h3 span, .nav-item {
-    font-family: $font-family-title;
-}
-
-#content.content-wrapper {
-    @include media-breakpoint-up(lg) {
-        padding-top: $content-padding-top;
-        padding-bottom: $content-padding-bottom;
-        margin-top: $header-height;
-    }
-
-    min-height: calc(100vh - #{$header-height + $content-padding-top + $content-padding-bottom + $footer-height}); // sticky footer
-}
-
-#content.content-wrapper {
-    padding-top: 0px !important;
-    margin-top: 66px !important;
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-}
-
-////////////////// Fonts
-@import "fonts";
-
-/////////////////// Register/Sign in header
-header.global-header {
-    @include media-breakpoint-up(lg) {
-        position: fixed;
-        top: 0;
-        z-index: 200; // necessary to keep the header on top of other elements
-        overflow: visible; // fix for Safari
-    }
-    //background-color: #4c61bf;
-    /*border-bottom: 2px solid #adadad;*/
-    /*box-shadow: 0px 1px 6px darkgrey !important;*/
-    box-shadow: 0px 1px 6px darkgrey !important;
-}
-
-header.global-header .nav-links .secondary .user-image-frame {
-    border-radius: 0;
-}
-
-header.global-header .nav-links .secondary .dropdown-user-menu {
-    position: fixed;
-}
-
-.global-header .nav-links .main .nav-tab a:hover {
-    cursor: pointer;
-    border-bottom-color: #0a3055 !important;
-}
 /////////////////// Home page
 .home header {
     box-shadow: none;
@@ -95,28 +21,3 @@ header.global-header .nav-links .secondary .dropdown-user-menu {
     height: 420px;
 }
 
-.home > header .title {
-    box-shadow: none;
-    background: none !important;
-    margin-left: 0px !important;
-}
-
-.home > header .title .course-search .search-button {
-    border: 2px solid #0A3041 !important;
-    background: #0a3055 !important;
-}
-
-.home > header .outer-wrapper {
-    padding: 0;
-    margin-top: 95px !important;
-}
-
-.home > header .title > .heading-group {
-    width: 100%;
-    text-align: center;
-}
-
-.home > header .title > .heading-group h1, .home > header .title > .heading-group p {
-    text-align: left;
-    color: #fff !important;
-}
