@@ -5,8 +5,12 @@
     "\\lms",
     "\\lms\\static",
     "\\lms\\static\\images",
+    "\\lms\\static\\sass",
+    "\\lms\\static\\sass\\partials",
+    "\\lms\\static\\sass\\partials\\lms",
+    "\\lms\\static\\sass\\partials\\lms\\theme",
     "\\lms\\templates"
   ],
-  "SelectedNode": "\\lms\\static\\images\\TwitterIcon.png",
+  "SelectedNode": "\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
   "PreviewInSolutionExplorer": false
 }
