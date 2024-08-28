@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\cms\\templates\\widgets\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cms\\templates\\widgets\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\cms\\templates\\widgets\\sock.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cms\\templates\\widgets\\sock.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\static\\sass\\partials\\lms\\theme\\_extras.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     }
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sock.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\cms\\templates\\widgets\\sock.html",
+              "RelativeDocumentMoniker": "cms\\templates\\widgets\\sock.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\cms\\templates\\widgets\\sock.html",
+              "RelativeToolTip": "cms\\templates\\widgets\\sock.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-28T14:20:18.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "footer.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\cms\\templates\\widgets\\footer.html",
+              "RelativeDocumentMoniker": "cms\\templates\\widgets\\footer.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\cms\\templates\\widgets\\footer.html",
+              "RelativeToolTip": "cms\\templates\\widgets\\footer.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-28T14:20:03.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_extras.scss",
               "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
               "RelativeDocumentMoniker": "lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",

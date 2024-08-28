@@ -2,15 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\cms",
-    "\\lms",
+    "\\cms\\templates",
+    "\\cms\\templates\\widgets",
     "\\lms\\static",
-    "\\lms\\static\\images",
-    "\\lms\\static\\sass",
-    "\\lms\\static\\sass\\partials",
-    "\\lms\\static\\sass\\partials\\lms",
     "\\lms\\static\\sass\\partials\\lms\\theme",
     "\\lms\\templates"
   ],
-  "SelectedNode": "\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
+  "SelectedNode": "\\cms\\templates\\widgets",
   "PreviewInSolutionExplorer": false
 }
