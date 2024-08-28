@@ -3,11 +3,7 @@
     "",
     "\\cms",
     "\\cms\\templates",
-    "\\cms\\templates\\widgets",
-    "\\lms\\static",
-    "\\lms\\static\\sass\\partials\\lms\\theme",
-    "\\lms\\templates"
+    "\\cms\\templates\\widgets"
   ],
-  "SelectedNode": "\\cms\\templates\\widgets",
   "PreviewInSolutionExplorer": false
 }

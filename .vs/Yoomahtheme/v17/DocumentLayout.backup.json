@@ -34,8 +34,7 @@
               "RelativeToolTip": "cms\\templates\\widgets\\sock.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-28T14:20:18.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T14:20:18.525Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-08-22T15:00:19.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T15:00:19.834Z"
             }
           ]
         }
