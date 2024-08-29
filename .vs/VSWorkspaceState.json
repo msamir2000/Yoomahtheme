@@ -3,7 +3,10 @@
     "",
     "\\cms",
     "\\cms\\templates",
-    "\\cms\\templates\\widgets"
+    "\\cms\\templates\\widgets",
+    "\\lms",
+    "\\lms\\templates"
   ],
+  "SelectedNode": "\\lms\\templates\\index_overlay.html",
   "PreviewInSolutionExplorer": false
 }
