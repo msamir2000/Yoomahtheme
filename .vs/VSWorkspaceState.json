@@ -3,7 +3,7 @@
     "",
     "\\lms",
     "\\lms\\static",
-    "\\lms\\static\\certificates\\images",
+    "\\lms\\static\\images",
     "\\lms\\static\\sass",
     "\\lms\\static\\sass\\partials",
     "\\lms\\static\\sass\\partials\\lms",

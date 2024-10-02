@@ -90,8 +90,7 @@
               "RelativeToolTip": "lms\\templates\\certificates\\_accomplishment-rendering.html",
               "ViewState": "AgIAAFkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-29T21:23:34.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T21:23:34.81Z"
             },
             {
               "$type": "Document",
@@ -139,8 +138,7 @@
               "RelativeToolTip": "lms\\templates\\index_overlay.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-29T07:53:21.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T07:53:21.203Z"
             },
             {
               "$type": "Document",
@@ -150,7 +148,7 @@
               "RelativeDocumentMoniker": "lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
               "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
               "RelativeToolTip": "lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
               "WhenOpened": "2024-08-22T15:00:19.834Z",
               "EditorCaption": ""
