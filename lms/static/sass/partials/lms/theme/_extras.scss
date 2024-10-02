@@ -21,3 +21,33 @@
     height: 420px;
 }
 
+.home > header .title {
+    box-shadow: none;
+    background: none !important;
+    margin-left: 0px !important;
+}
+
+.home > header .title .course-search .search-button {
+    border: 2px solid #0A3041 !important;
+    background: #0a3055 !important;
+}
+
+.home > header .outer-wrapper {
+    padding: 0;
+    margin-top: 95px !important;
+}
+
+.home > header .title > .heading-group {
+    width: 100%;
+    text-align: center;
+}
+
+.home > header .title > .heading-group h1, .home > header .title > .heading-group p {
+    text-align: left;
+    color: #fff !important;
+}
+
+.animation-home-header-pop-up, .home > header .outer-wrapper {
+    animation: none;
+}
+

@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\static\\sass\\partials\\lms\\theme\\_extras.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\index_overlay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\index_overlay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-rendering.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\_accomplishment-rendering.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-introduction.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\_accomplishment-introduction.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-banner.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\_accomplishment-banner.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\_accomplishment-footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\_accomplishment-header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\accomplishment-base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\accomplishment-base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_edx-accomplishment-print-help.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\_edx-accomplishment-print-help.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_badges-modal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\_badges-modal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_about-accomplishments.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\_about-accomplishments.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_about-edx.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\_about-edx.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\valid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\templates\\certificates\\valid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\cms\\templates\\widgets\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\cms\\templates\\widgets\\sock.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cms\\templates\\widgets\\sock.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\static\\sass\\partials\\lms\\theme\\_extras.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +70,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "_accomplishment-rendering.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-rendering.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\_accomplishment-rendering.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-rendering.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\_accomplishment-rendering.html",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:23:34.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_accomplishment-footer.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-footer.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\_accomplishment-footer.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-footer.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\_accomplishment-footer.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:22:28.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_accomplishment-header.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-header.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\_accomplishment-header.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-header.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\_accomplishment-header.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:22:17.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_accomplishment-banner.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-banner.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\_accomplishment-banner.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-banner.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\_accomplishment-banner.html",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:14:26.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "index_overlay.html",
               "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\index_overlay.html",
               "RelativeDocumentMoniker": "lms\\templates\\index_overlay.html",
@@ -43,7 +144,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "_extras.scss",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
+              "RelativeDocumentMoniker": "lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
+              "RelativeToolTip": "lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-08-22T15:00:19.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_accomplishment-introduction.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-introduction.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\_accomplishment-introduction.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_accomplishment-introduction.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\_accomplishment-introduction.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:23:30.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_edx-accomplishment-print-help.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_edx-accomplishment-print-help.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\_edx-accomplishment-print-help.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_edx-accomplishment-print-help.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\_edx-accomplishment-print-help.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:10:30.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_badges-modal.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_badges-modal.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\_badges-modal.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_badges-modal.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\_badges-modal.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:10:21.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_about-accomplishments.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_about-accomplishments.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\_about-accomplishments.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_about-accomplishments.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\_about-accomplishments.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:07:46.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "accomplishment-base.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\accomplishment-base.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\accomplishment-base.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\accomplishment-base.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\accomplishment-base.html",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:06:37.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_about-edx.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_about-edx.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\_about-edx.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\_about-edx.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\_about-edx.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:07:30.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "valid.html",
+              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\valid.html",
+              "RelativeDocumentMoniker": "lms\\templates\\certificates\\valid.html",
+              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\templates\\certificates\\valid.html",
+              "RelativeToolTip": "lms\\templates\\certificates\\valid.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T21:07:21.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "sock.html",
               "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\cms\\templates\\widgets\\sock.html",
               "RelativeDocumentMoniker": "cms\\templates\\widgets\\sock.html",
@@ -55,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "footer.html",
               "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\cms\\templates\\widgets\\footer.html",
               "RelativeDocumentMoniker": "cms\\templates\\widgets\\footer.html",
@@ -63,20 +261,7 @@
               "RelativeToolTip": "cms\\templates\\widgets\\footer.html",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-28T14:20:03.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_extras.scss",
-              "DocumentMoniker": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
-              "RelativeDocumentMoniker": "lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
-              "ToolTip": "C:\\Users\\mohamed.samir\\source\\repos\\Yoomahtheme\\lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
-              "RelativeToolTip": "lms\\static\\sass\\partials\\lms\\theme\\_extras.scss",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-08-22T15:00:19.834Z"
+              "WhenOpened": "2024-08-28T14:20:03.657Z"
             }
           ]
         }
